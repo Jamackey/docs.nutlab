@@ -1,0 +1,28 @@
+site_name: nutlab.co.uk
+site_url: https://docs.nutlab.co.uk
+theme: 
+  name: material
+  favicon: img/favicon.ico
+  logo: img/nutlab_icon_nobg.svg
+  palette:
+    primary: indigo
+  features:
+    - navigation.tabs
+    # - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+nav:
+  - Home: index.md 
+  - Projects:
+    - OpenChrono2: projects/open-chrono-2.md
+  - Servers:
+    - Minecraft: servers/minecraft.md
+    - Assetto Corsa: servers/acc.md
+  - Blog: blog/index.md
+plugins:
+  - blog
+  - with-pdf
+
