@@ -6,17 +6,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.nutlab.co.uk/blog/</loc>
+         <loc>https://docs.nutlab.co.uk/projects/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.nutlab.co.uk/blog/2024/01/31/hello-world/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.nutlab.co.uk/projects/open-chrono-2/</loc>
+         <loc>https://docs.nutlab.co.uk/projects/openchrono2/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -27,21 +22,6 @@
     </url>
     <url>
          <loc>https://docs.nutlab.co.uk/servers/minecraft/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.nutlab.co.uk/blog/archive/2024/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.nutlab.co.uk/blog/category/hello/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.nutlab.co.uk/blog/category/world/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
