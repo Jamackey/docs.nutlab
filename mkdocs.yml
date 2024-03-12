@@ -21,8 +21,6 @@ nav:
   - Servers:
     - Minecraft: servers/minecraft.md
     - Assetto Corsa: servers/acc.md
-  - Blog: blog/index.md
 plugins:
-  - blog
   - with-pdf
 
